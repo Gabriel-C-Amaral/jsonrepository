@@ -1,16 +1,3 @@
 {
-“tasks”: [{
-      "taskNum": "01",
-      "description": "Teste 01",
-      "taskDate": "01/01/2001",
-      "taskStatus": "Concluído",
-      "id": 1
-    },
-    {
-      "taskNum": "03",
-      "description": "Teste 03",
-      "taskDate": "03/03/2003",
-      "taskStatus": "Stopped",
-      "id": 3
-    }]
+“tasks”: []
 }
